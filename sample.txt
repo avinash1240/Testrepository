@@ -1,0 +1,2 @@
+This is my first class
+I am using Git.Adding new line.
